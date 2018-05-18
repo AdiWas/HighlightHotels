@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HighlightHotels_Project", ".", "{E5EF3537-CDB3-409D-8421-5C3E77F03489}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8278"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\בית ספר\פרויקט גמר מחשבים\גרסאות נוכחיות-מאי 18'\HighlightHotels_Project\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8278\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8278"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\בית ספר\פרויקט גמר מחשבים\גרסאות נוכחיות-מאי 18'\HighlightHotels_Project\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8278\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "8278"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WSCreditCard_HighlightHotlesProject", "..\WebSites\WSCreditCard_HighlightHotlesProject\", "{0FE0905A-54E5-4AD9-A91B-5AF15CBB1EF5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8313"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\בית ספר\פרויקט גמר מחשבים\גרסאות נוכחיות-מאי 18'\WebSites\WSCreditCard_HighlightHotlesProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8313\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8313"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\בית ספר\פרויקט גמר מחשבים\גרסאות נוכחיות-מאי 18'\WebSites\WSCreditCard_HighlightHotlesProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8313\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "8313"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5EF3537-CDB3-409D-8421-5C3E77F03489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EF3537-CDB3-409D-8421-5C3E77F03489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE0905A-54E5-4AD9-A91B-5AF15CBB1EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE0905A-54E5-4AD9-A91B-5AF15CBB1EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
